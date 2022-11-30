@@ -1,0 +1,30 @@
+html{
+  background-color: #323232;
+  color: #fff;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+  color: rgb(35, 180, 156);
+  text-decoration: none;
+}
+
+#cd{
+  background-color: antiquewhite;
+  border-radius: 5px;
+  width: 400px;
+  height: 130px;
+}
+.codes{
+  background-color: antiquewhite;
+  color: #323232;
+  border: 1px solid antiquewhite;
+  align-content: center;
+  text-align: left;
+}
+
+.codes p{
+  margin: 0 auto;
+  padding: auto 0;
+  margin-left: 10px;
+}
